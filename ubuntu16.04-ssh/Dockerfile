@@ -5,6 +5,7 @@
 # ==============================================================================
 
 FROM ubuntu:16.04
+#FROM registry.mirrors.aliyuncs.com/library/ubuntu:16.04
 
 MAINTAINER homesheer <homesheer@qq.com>
 
